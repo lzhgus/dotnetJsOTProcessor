@@ -1,0 +1,6 @@
+.idea/
+client/node_modules/
+*.nuget.props
+*.nuget.targets
+bin/
+obj/Debug
